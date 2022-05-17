@@ -1,7 +1,7 @@
   ### Hi, I'm Jessica 👋
 
 
-- 🔭 I'm currently working whith front end  
+- 🔭 I'm currently working whith full stack developer  
 - 📖 I’m currently learning software development
 - 😄 Pronouns: She/Her
 - ⚡ My purpose is to help people through technology
