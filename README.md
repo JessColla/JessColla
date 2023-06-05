@@ -1,8 +1,8 @@
   ### Hi, I'm Jessica 👋
 
 
-- 🔭 I'm currently working whith back-end developer  
-- 📖 I’m currently learning software development
+- 🔭 I'm working whith back-end developer  
+- 📖 I’m currently learning typescript
 - 😄 Pronouns: She/Her
 - ⚡ My purpose is to help people through technology
 
